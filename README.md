@@ -1,4 +1,4 @@
 # whataweather
 
-A Weather App Using [https://openweathermap.org/current](https://api.openweathermap.org/data/2.5/weather)OpenWeather API
+A Weather App Using OpenWeather API [https://openweathermap.org/current](https://api.openweathermap.org/data/2.5/weather)
 
